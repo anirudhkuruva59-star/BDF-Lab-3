@@ -470,7 +470,7 @@ This application is configured for deployment as a **Web Service** on [Render](h
 
 ### Live API URL
 ```text
-https://bdf-lab-03.onrender.com
+https://bdf-lab-3-f5xa.onrender.com
 ```
 *(Updated upon live deployment)*
 
