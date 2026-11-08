@@ -1,0 +1,24 @@
+{
+  "name": "bdf-lab-03",
+  "version": "1.0.0",
+  "description": "BDF Lab 3 - REST API, Query Parameters, Validation, and Debugging",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test_runner.js"
+  },
+  "keywords": [
+    "express",
+    "sqlite3",
+    "rest-api",
+    "crud",
+    "validation"
+  ],
+  "author": "KURUVA ANIRUDH",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}
+
